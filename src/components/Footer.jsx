@@ -9,7 +9,7 @@ const Footer = () => {
                     <img src={logo} alt='logo' className='w-24 h-24 object-contain ml-40 my-3 flex justify-center items-center cursor-pointer' />
                 </a>
                 <p className='text-sm sm:pl-4 sm:border-l-2 h-16 sm:border-gray-200 sm:mx-3 sm:mt-7 text-slate-400 flex justify-center items-center'>
-                    © 2023 -
+                    © -
                     <a href="https://github.com/Yashpokharna" className='text-secondary-900 ml-1 font-bold'>@Yashpokharna</a>
                 </p>
             </div>
